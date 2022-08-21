@@ -1,0 +1,10 @@
+C:\Users\ishak\source\repos\A3HW\A3HW\bin\Debug\A3HW.exe.config
+C:\Users\ishak\source\repos\A3HW\A3HW\bin\Debug\A3HW.exe
+C:\Users\ishak\source\repos\A3HW\A3HW\bin\Debug\A3HW.pdb
+C:\Users\ishak\source\repos\A3HW\A3HW\obj\Debug\A3HW.csproj.AssemblyReference.cache
+C:\Users\ishak\source\repos\A3HW\A3HW\obj\Debug\A3HW.Form1.resources
+C:\Users\ishak\source\repos\A3HW\A3HW\obj\Debug\A3HW.Properties.Resources.resources
+C:\Users\ishak\source\repos\A3HW\A3HW\obj\Debug\A3HW.csproj.GenerateResource.cache
+C:\Users\ishak\source\repos\A3HW\A3HW\obj\Debug\A3HW.csproj.CoreCompileInputs.cache
+C:\Users\ishak\source\repos\A3HW\A3HW\obj\Debug\A3HW.exe
+C:\Users\ishak\source\repos\A3HW\A3HW\obj\Debug\A3HW.pdb
